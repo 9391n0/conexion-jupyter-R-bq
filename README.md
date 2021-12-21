@@ -1,2 +1,2 @@
-# conexion-jupyter/R-bq
-Para la conexión de Jupyter usamos **pydata_google_auth**, mientras que para la de R usamos **bigrquery**.
+# Connections BQ-jupyter and BQ-R
+For the connection with Jupyther we use **pydata_google_auth**, while for the one with R we use **bigrquery**.
