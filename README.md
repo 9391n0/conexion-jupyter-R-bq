@@ -1,2 +1,2 @@
-# conexion-jupyter-bq
-Conexión de Jupyter con Bigquery
+# conexion-jupyter/R-bq
+Conexión de Jupyter o R con Bigquery
